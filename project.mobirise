@@ -70,8 +70,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Triangle Funding Group",
+        "meta_descr": "Home",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
