@@ -54,7 +54,7 @@
     "PWA": {
       "enabled": true,
       "name": "Triangle Funding Group",
-      "icon": "@PROJECT_PATH@/assets/images/coinstime-512x512.png",
+      "icon": "@PROJECT_PATH@/assets/images/coinstime-1-2000x1333-128x85-1-512x512.png",
       "themeColor": "#149dcc"
     },
     "imageResize": false,
@@ -1671,11 +1671,11 @@
           "_name": "map2",
           "_customHTML": "<section class=\"map2\" group=\"Maps\">\n\n    <mbr-parameters>\n    <!-- Block of parameters for component -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\" step=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJg0bJTpDvrIkRzLsntbr-LiA\" value=\"RTP, NC\">\n    <!-- End block of parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-md-8\">\n                <div class=\"google-map\" mbr-map=\"googleMap\">\n            </div>\n        </div>\n    </div>\n</div></section>",
           "_cid": "rYvGXLWHQR",
+          "_anchor": "map2-31",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "map2-31"
+          "_params": {}
         },
         {
           "alias": "mobirise4-blocks/components",
@@ -5809,11 +5809,11 @@
           "_name": "map2",
           "_customHTML": "<section class=\"map2\" group=\"Maps\">\n\n    <mbr-parameters>\n    <!-- Block of parameters for component -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"6\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"6\" step=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJg0bJTpDvrIkRzLsntbr-LiA\" value=\"RTP, NC\">\n    <!-- End block of parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-md-8\">\n                <div class=\"google-map\" mbr-map=\"googleMap\">\n            </div>\n        </div>\n    </div>\n</div></section>",
           "_cid": "rYvFVAEqBA",
+          "_anchor": "map2-30",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "map2-30"
+          "_params": {}
         },
         {
           "alias": "mobirise4-blocks/components",
