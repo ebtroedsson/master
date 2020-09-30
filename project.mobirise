@@ -49,7 +49,7 @@
     "siteUrl": "http://www.trianglefundinggroup.com",
     "pwa-switcher": true,
     "uniqCompNum": 110,
-    "versionPublish": "5.0.29",
+    "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "PWA": {
       "enabled": true,
