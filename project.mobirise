@@ -48,8 +48,8 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": "http://www.trianglefundinggroup.com",
     "pwa-switcher": true,
-    "uniqCompNum": 110,
-    "versionPublish": "5.1.4",
+    "uniqCompNum": 112,
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "PWA": {
       "enabled": true,
