@@ -54,12 +54,27 @@
     "PWA": {
       "enabled": true,
       "name": "Triangle Funding Group",
-      "icon": "@PROJECT_PATH@/assets/images/coinstime-1-2000x1333-128x85-1-512x512.png",
+      "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
       "themeColor": "#149dcc"
     },
     "imageResize": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "chatbutton": {
+      "phone": "+19193236393",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Hi!👋\n\nType a message here. It will go straight to our phone! 🔥\n\nTriangle Funding Group ",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": 5,
+      "headerColor": "#39847a",
+      "headerTitle": "👋 Chat with us on WhatsApp!",
+      "zIndex": 10,
+      "enabled": true
+    }
   },
   "pages": {
     "index.html": {
